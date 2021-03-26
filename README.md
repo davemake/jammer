@@ -1,6 +1,6 @@
 # JAMMER!
 
-Create heavy metal fast enough to jam!
+Create heavy metal fast
 
 # Termius..........
 
@@ -12,7 +12,7 @@ $ git clone https://github.com/davemake/jammer.git .
 
 $ git checkout -b <branch-name>
 
-(BUILD!)
+(BUILD)
 
 $ git add --all && git commit -m "memo...."
 
@@ -24,11 +24,11 @@ $ node index.js
 
 # Dial VISUAL STUDIO CODE
 
-$ mkdir .jscode && cd .jscode
+$ mkdir .jscode
 
-$ git clone https://github.com/davemake/jscode_launch.git .
+$ git clone https://github.com/davemake/jscode_launch.git .jscode
 
-$ git clone https://github.com/davemake/jscode_settings.git .
+$ git clone https://github.com/davemake/jscode_settings.git .jscode
 
 .jscode
 
